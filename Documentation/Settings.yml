@@ -1,0 +1,19 @@
+# Settings.yml
+
+---
+conf.py:
+  copyright: 2016
+  project: Layout to Website
+  version: 1.0.0
+  release: 1.0.0
+  html_theme_options:
+    github_repository: TYPO3-Documentation/TYPO3CMS-Tutorial-Layout-to-Website
+    github_branch: latest
+  intersphinx_mapping:
+    t3security:
+    - http://docs.typo3.org/typo3cms/SecurityGuide/
+    - null
+    t3install:
+    - http://docs.typo3.org/typo3cms/InstallationGuide/
+    - null
+...
