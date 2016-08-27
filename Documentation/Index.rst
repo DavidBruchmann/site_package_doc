@@ -1,11 +1,10 @@
 .. include:: Includes.txt
 
-
 .. _start:
 
-==========================
-Layout to Website Tutorial
-==========================
+=====================================
+TYPO3 CMS: Layout to Website Tutorial
+=====================================
 
 :Version:
       1.0.0
@@ -29,10 +28,8 @@ Layout to Website Tutorial
 :Rendered:
       |today|
 
-The content of this document is related to TYPO3,
+The content of this document is related to TYPO3, a GNU/GPL CMS/Framework available from `www.typo3.org <https://typo3.org/>`_
 
-a GNU/GPL CMS/Framework available from `www.typo3.org
-<https://typo3.org/>`_
 
 Summary
 =======
